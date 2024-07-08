@@ -13,7 +13,7 @@ module.exports = { session: process.env.SESSION_ID='FLASH-MD-WA-BOT;;;=>eyJub2lz
     OWNER_NUMBER : process.env.OWNER_NUMBER || "233508776658", 
              
     AUTO_VIEW_STATUS: process.env.AUTO_VIEW_STATUS || "on",
-AUTOREAD_MESSAGES: process.env.AUTO_READ_MESSAGES || "off",
+AUTOREAD_MESSAGES: process.env.AUTO_READ_MESSAGES || "on",
 CHATBOT: process.env.CHAT_BOT || "off",
     AUTO_SAVE_STATUS: process.env.AUTO_SAVE_STATUS || 'no',
     BOT : process.env.BOT_NAME || 'FLASH-MD',
